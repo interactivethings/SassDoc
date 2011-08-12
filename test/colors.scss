@@ -1,0 +1,24 @@
+/**
+* This is a test file for creating a SassDoc color documentation.
+*
+* It must conform to the following format:
+*
+* Each double-slash comment ('//') initiates a group. The file must start with a comment.
+* Each statement must be on one line ('$test: #f00;')
+*/
+
+// Gray colors
+$main-color-1: #666;
+$main-color-2: #999;
+$main-color-3: #ccc;
+$main-color-4: #eee;
+
+// Green colors
+$green-color-1: #BFD959;
+$green-color-2: #82AB1C;
+$green-color-3: #36540A;
+
+// Blue colors
+$blue-color-1: #89B6DB;
+$blue-color-2: #286699;
+$blue-color-3: #003159;
